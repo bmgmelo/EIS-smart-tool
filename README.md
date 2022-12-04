@@ -1,6 +1,7 @@
 # EIS-analysIS
 EIS analysIS is a standalone MATLAB application software for the visualization, analysis, and modeling of impedance spectroscopy data.
-To run the software, download the EIS_analysIS_for_testing rar file.
+
+**To run the software, download the EIS_analysIS_for_testing rar file.**
 
 You can use the "YSZ_table_example.txt" file to test the software. This file includes some impedance measurements of a YSZ pellet, as a function of temperature (temperature values in Kelvin) and frequency. Load this file with "Load existing file" option. An instructional video will be added in short time.
 
