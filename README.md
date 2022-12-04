@@ -1,9 +1,12 @@
 # EIS-analysIS
-EIS analysIS is a standalone MATLAB application software For the visualization, analysis, and modeling of impedance spectroscopy data.
+EIS analysIS is a standalone MATLAB application software for the visualization, analysis, and modeling of impedance spectroscopy data.
 
-The application software allows to import and analyze isolated EIS data measured at a single temperature, however, it is especially useful for the analysis of impedance data as a function of temperature. The user can load a text file with the Z’ and -Z’’ values of each frequency and temperature (example in Table 9.4) and the software will calculate all the remaining immittance functions. The resulting matrix can be saved and conveniently reloaded every time the user wishes to perform further analysis.
+You can use the "YSZ_table_example.txt" provided file to test the software. This file includes some impedance measurements of a YSZ pellet, as a function of temperature (temperature values in Kelvin) and frequency. Load this file with "Load existing file" option.
 
-All graphics are customizable with multiple line styles, maker styles, colormaps, and the user can choose to save them as an image file or export the selected data as a text file.
+The user can load a text file with the Z’ and -Z’’ values of each frequency and temperature (example in next Table) and the software will calculate all the remaining immittance functions. The resulting matrix can be saved and conveniently reloaded every time the user wishes to perform further analysis.
+![imagem](https://user-images.githubusercontent.com/42448042/205509349-ee4ed2b2-4ddb-4189-a6ae-ef180a71904d.png)
+
+The application software allows to import and analyze isolated EIS data measured at a single temperature, however, it is especially useful for the analysis of impedance data as a function of temperature. All graphics are customizable with multiple line styles, maker styles, colormaps, and the user can choose to save them as an image file or export the selected data as a text file.
 
 The application software provides the ability to study the dielectric relaxations according to different models. Some of the most relevant features are:
 ▪ Fitting the impedance data (real and imaginary parts of impedance) to a user-defined equivalent circuit model;
