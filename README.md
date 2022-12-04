@@ -35,6 +35,9 @@ The application software provides the ability to study the dielectric relaxation
 Further discussion can be found in: "DFRTtoEIS: An easy approach to verify the consistency of a DFRT generated from an impedance spectrum" https://doi.org/10.1016/j.electacta.2020.137429
 
 
+
+
+References
 [1] T.H. Wan, M. Saccoccio, C. Chen, F. Ciucci, Influence of the Discretization Methods on the Distribution of Relaxation Times Deconvolution: Implementing Radial Basis Functions with DRTtools, Electrochim. Acta. 184 (2015) 483–499. https://doi.org/10.1016/j.electacta.2015.09.097.
 
 [2] M. Schönleber, D. Klotz, E. Ivers-Tiffée, A Method for Improving the Robustness of linear Kramers-Kronig Validity Tests, Electrochim. Acta. 131 (2014) 20–27. https://doi.org/10.1016/j.electacta.2014.01.034.
