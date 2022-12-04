@@ -1,5 +1,6 @@
 # EIS-analysIS
 EIS analysIS is a standalone MATLAB application software for the visualization, analysis, and modeling of impedance spectroscopy data.
+To run the software, download the EIS_analysIS_for_testing rar file.
 
 You can use the "YSZ_table_example.txt" file to test the software. This file includes some impedance measurements of a YSZ pellet, as a function of temperature (temperature values in Kelvin) and frequency. Load this file with "Load existing file" option. An instructional video will be added in short time.
 
@@ -10,6 +11,7 @@ The user can load a text file with the Z’ and -Z’’ values of each frequenc
 The application software allows to import and analyze isolated EIS data measured at a single temperature, however, it is especially useful for the analysis of impedance data as a function of temperature. All graphics are customizable with multiple line styles, maker styles, colormaps, and the user can choose to save them as an image file or export the selected data as a text file.
 
 The application software provides the ability to study the dielectric relaxations according to different models. Some of the most relevant features are:
+
 ▪ Fitting the impedance data (real and imaginary parts of impedance) to a user-defined equivalent circuit model;
 ▪ Evaluating the fit residuals, export (as text or image) the complex impedance fit and the fitted parameters;
 ▪ Fitting complex data (Impedance, Dielectric Modulus, and Permittivity) according to the Havriliak-Negami function. The fitting is performed to both real and imaginary parts of the complex function;
