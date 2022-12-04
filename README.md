@@ -31,6 +31,15 @@ The application software provides the ability to study the dielectric relaxation
 
 ▪ Calculating the Nyquist plots in several immittance functions (Impedance, Dielectric Modulus, and Permittivity);
 
+▪ Calculating the Arrhenius representation and determining the activation energy of the electrical conductivity (σ’) over the desired temperature range;
+
+▪ Fitting the ac conductivity (σ’) data using Jonscher’s power law;
+
+▪ Providing analysis tools for distinguishing between the long-range conductivity peak and the localized relaxation processes;
+
+▪ Evaluating the scaling behavior of a dielectric relaxation with the master curve;
+
+▪ Applying the derivative method (εder′′).
 
 If you found this work helpful, please consider citing the following article: "DFRTtoEIS: An easy approach to verify the consistency of a DFRT generated from an impedance spectrum" https://doi.org/10.1016/j.electacta.2020.137429
 
