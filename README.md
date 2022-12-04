@@ -21,15 +21,20 @@ The application software provides the ability to study the dielectric relaxation
 
 ▪ Calculating the Havriliak-Negami fit residuals and exporting the fitted curves as a text file or a customizable image;
 
-▪ Studying the impedance data with the distribution function of relaxation times formalism (impedance data is directly imported to the DRTtools [48]);
+▪ Studying the impedance data with the distribution function of relaxation times formalism (impedance data is directly imported to the DRTtools [1]);
 
 ▪ Checking the validity of the calculated distribution function of relaxation times, by the transforming the data into a synthetic impedance spectrum that can be compared with the original measured impedance data (DFRTtoEIS);
 
 ▪ Calculating the individual parameters including resistance, capacitance and time constants from the distribution function of relaxation times analysis (DFRTtoEIS);
 
-▪ Exporting the impedance data in the adequate data type to check the internal consistency of the measured impedance with the Kramers-Kronig test (using an additional MATLAB tool – LIN KK [24]);
+▪ Exporting the impedance data in the adequate data type to check the internal consistency of the measured impedance with the Kramers-Kronig test (using an additional MATLAB tool – LIN KK [2]);
 
 ▪ Calculating the Nyquist plots in several immittance functions (Impedance, Dielectric Modulus, and Permittivity);
 
 
 Further discussion can be found in: "DFRTtoEIS: An easy approach to verify the consistency of a DFRT generated from an impedance spectrum" https://doi.org/10.1016/j.electacta.2020.137429
+
+
+[1] T.H. Wan, M. Saccoccio, C. Chen, F. Ciucci, Influence of the Discretization Methods on the Distribution of Relaxation Times Deconvolution: Implementing Radial Basis Functions with DRTtools, Electrochim. Acta. 184 (2015) 483–499. https://doi.org/10.1016/j.electacta.2015.09.097.
+
+[2] M. Schönleber, D. Klotz, E. Ivers-Tiffée, A Method for Improving the Robustness of linear Kramers-Kronig Validity Tests, Electrochim. Acta. 131 (2014) 20–27. https://doi.org/10.1016/j.electacta.2014.01.034.
