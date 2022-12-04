@@ -32,7 +32,7 @@ The application software provides the ability to study the dielectric relaxation
 ▪ Calculating the Nyquist plots in several immittance functions (Impedance, Dielectric Modulus, and Permittivity);
 
 
-Further discussion can be found in: "DFRTtoEIS: An easy approach to verify the consistency of a DFRT generated from an impedance spectrum" https://doi.org/10.1016/j.electacta.2020.137429
+If you found this work helpful, please consider citing the following article: "DFRTtoEIS: An easy approach to verify the consistency of a DFRT generated from an impedance spectrum" https://doi.org/10.1016/j.electacta.2020.137429
 
 
 
