@@ -1,7 +1,10 @@
-# EIS-analysIS
+# EIS-analysIS (Windows version)
 EIS analysIS is a standalone MATLAB application software for the visualization, analysis, and modeling of impedance spectroscopy data.
 
-**To run the software, download the EIS_analysIS_for_testing rar file.**
+**To run the software, download the EIS_analysIS_for_testing rar file.** 
+
+**You need to download and install the Windows version of the MATLAB Runtime for R2017b from the following link on the MathWorks website: http://www.mathworks.com/products/compiler/mcr/index.html**
+
 
 You can use the "YSZ_table_example.txt" file to test the software. This file includes some impedance measurements of a YSZ pellet, as a function of temperature (temperature values in Kelvin) and frequency. Load this file with "Load existing file" option. An instructional video of how to use the software will be added in a short time.
 
@@ -44,7 +47,8 @@ The application software provides the ability to study the dielectric relaxation
 If you found this work helpful, please consider citing the following article: "DFRTtoEIS: An easy approach to verify the consistency of a DFRT generated from an impedance spectrum" https://doi.org/10.1016/j.electacta.2020.137429
 
 
-
+Please let me know if you find some bugs while using the software. Further updates will be added in the future.
+Bruno Melo (bmelo@ua.pt)
 ________________________________________________________________________________________________________________________________________________________
 References
 
