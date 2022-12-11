@@ -5,7 +5,7 @@ EIS smart tool is a standalone MATLAB application software for the visualization
 
 **1) Download and install the Windows version of the MATLAB Runtime for R2017b from the following link on the MathWorks website: http://www.mathworks.com/products/compiler/mcr/index.html**
 
-**2) Download the EIS-smart-tool_for_testing rar file**
+**2) Download the EIS-smart-tool rar file**
 
 **3) Extract files from the rar** 
 
