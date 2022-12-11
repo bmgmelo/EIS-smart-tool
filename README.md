@@ -11,7 +11,7 @@ EIS analysIS is a standalone MATLAB application software for the visualization, 
 
 **4) Run the EIS_analysIS.exe** 
 
-You can use the "YSZ_table_example.txt" file to test the software. This file includes some impedance measurements of a YSZ pellet, as a function of temperature (temperature values in Kelvin) and frequency. **Load this file with "Load existing file" option and press run**. An instructional video of how to use the software will be added in a short time.
+You can use the "YSZ_table_example.txt" file (available in the rar file) to test the software. This file includes some impedance measurements of a YSZ pellet, as a function of temperature (temperature values in Kelvin) and frequency. **Load this file with "Load existing file" option and press run**. An instructional video of how to use the software will be added in a short time.
 
 The user can load a text file with the Z’ and -Z’’ values of each frequency and temperature (example in next Table) and the software will calculate all the remaining immittance functions. The resulting matrix can be saved and conveniently reloaded every time the user wishes to perform further analysis.
 
