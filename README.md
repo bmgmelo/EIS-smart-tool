@@ -1,15 +1,15 @@
-# EIS-analysIS (Windows version)
-EIS analysIS is a standalone MATLAB application software for the visualization, analysis, and modeling of impedance spectroscopy data.
+# EIS smart tool (Windows version)
+EIS smart tool is a standalone MATLAB application software for the visualization, analysis, and modeling of impedance spectroscopy data.
 
 **How to install the software:**
 
 **1) Download and install the Windows version of the MATLAB Runtime for R2017b from the following link on the MathWorks website: http://www.mathworks.com/products/compiler/mcr/index.html**
 
-**2) Download the EIS_analysIS_for_testing rar file**
+**2) Download the EIS smart tool_for_testing rar file**
 
 **3) Extract files from the rar** 
 
-**4) Run the EIS_analysIS.exe** 
+**4) Run the EIS smart tool.exe** 
 
 You can use the "YSZ_table_example.txt" file (available in the rar file) to test the software. This file includes some impedance measurements of a YSZ pellet, as a function of temperature (temperature values in Kelvin) and frequency. **Load this file with "Load existing file" option and press run**. An instructional video of how to use the software will be added in a short time.
 
