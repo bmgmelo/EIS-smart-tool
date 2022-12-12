@@ -35,7 +35,7 @@ The application software allows to import and analyze isolated EIS data measured
 
 The application software provides the ability to study the dielectric relaxations according to different models. Some of the most relevant features are:
 
-▪ Fitting the impedance data (real and imaginary parts of impedance) to some predefined equivalent circuit models, or a user-defined circuit (for the latter option the program uses the Zfit tool available in [1];
+▪ Fitting the impedance data (real and imaginary parts of impedance) to some predefined equivalent circuit models, or a user-defined circuit (for the latter option the program uses the Zfit tool available in [1]);
 
 ▪ Evaluating the fit residuals, export (as text or image) the complex impedance fit and the fitted parameters;
 
