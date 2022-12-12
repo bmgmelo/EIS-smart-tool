@@ -21,7 +21,7 @@ The application software allows to import and analyze isolated EIS data measured
 
 The application software provides the ability to study the dielectric relaxations according to different models. Some of the most relevant features are:
 
-▪ Fitting the impedance data (real and imaginary parts of impedance) to a user-defined equivalent circuit model;
+▪ Fitting the impedance data (real and imaginary parts of impedance) to some predefined equivalent circuit models, or a user-defined circuit (for the latter option the program uses the Zfit tool available in [1];
 
 ▪ Evaluating the fit residuals, export (as text or image) the complex impedance fit and the fitted parameters;
 
@@ -29,13 +29,13 @@ The application software provides the ability to study the dielectric relaxation
 
 ▪ Calculating the Havriliak-Negami fit residuals and exporting the fitted curves as a text file or a customizable image;
 
-▪ Studying the impedance data with the distribution function of relaxation times formalism (impedance data is directly imported to the DRTtools [1]);
+▪ Studying the impedance data with the distribution function of relaxation times formalism (impedance data is directly imported to the DRTtools [2]);
 
 ▪ Checking the validity of the calculated distribution function of relaxation times, by the transforming the data into a synthetic impedance spectrum that can be compared with the original measured impedance data (DFRTtoEIS);
 
 ▪ Calculating the individual parameters including resistance, capacitance and time constants from the distribution function of relaxation times analysis (DFRTtoEIS);
 
-▪ Exporting the impedance data in the adequate data type to check the internal consistency of the measured impedance with the Kramers-Kronig test (using an additional MATLAB tool – LIN KK [2]);
+▪ Exporting the impedance data in the adequate data type to check the internal consistency of the measured impedance with the Kramers-Kronig test (using an additional MATLAB tool – LIN KK [3]);
 
 ▪ Calculating the Nyquist plots in several immittance functions (Impedance, Dielectric Modulus, and Permittivity);
 
@@ -57,6 +57,8 @@ Bruno Melo (bmelo@ua.pt)
 ________________________________________________________________________________________________________________________________________________________
 References
 
-[1] T.H. Wan, M. Saccoccio, C. Chen, F. Ciucci, Influence of the Discretization Methods on the Distribution of Relaxation Times Deconvolution: Implementing Radial Basis Functions with DRTtools, Electrochim. Acta. 184 (2015) 483–499. https://doi.org/10.1016/j.electacta.2015.09.097.
+[1] J.-L. Dellis, Zfit, (n.d.). https://www.mathworks.com/matlabcentral/fileexchange/19460-zfit.
 
-[2] M. Schönleber, D. Klotz, E. Ivers-Tiffée, A Method for Improving the Robustness of linear Kramers-Kronig Validity Tests, Electrochim. Acta. 131 (2014) 20–27. https://doi.org/10.1016/j.electacta.2014.01.034.
+[2] T.H. Wan, M. Saccoccio, C. Chen, F. Ciucci, Influence of the Discretization Methods on the Distribution of Relaxation Times Deconvolution: Implementing Radial Basis Functions with DRTtools, Electrochim. Acta. 184 (2015) 483–499. https://doi.org/10.1016/j.electacta.2015.09.097.
+
+[3] M. Schönleber, D. Klotz, E. Ivers-Tiffée, A Method for Improving the Robustness of linear Kramers-Kronig Validity Tests, Electrochim. Acta. 131 (2014) 20–27. https://doi.org/10.1016/j.electacta.2014.01.034.
