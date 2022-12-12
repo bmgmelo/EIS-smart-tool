@@ -23,6 +23,8 @@ You can use the "YSZ_table_example.txt" file (available in the rar file) to test
 
 **EIS smart tool Havriliak–Negami (HN) example 2: https://youtu.be/Qva4HT9Yg1A**
 
+**Other how to videos available https://www.youtube.com/@eis-smart-tool**
+
 
 
 The user can load a text file with the Z’ and -Z’’ values of each frequency and temperature (example in next Table) and the software will calculate all the remaining immittance functions. The resulting matrix can be saved and conveniently reloaded every time the user wishes to perform further analysis.
