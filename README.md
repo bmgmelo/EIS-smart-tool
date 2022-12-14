@@ -17,7 +17,7 @@ You can use the "YSZ_table_example.txt" file (available in the rar file) to test
 
 **Starting guide video: https://youtu.be/Hxky_bsu2Kw**
 
-**Load new data video: https://youtu.be/KChpUhqamAE**
+**Load new data video: https://youtu.be/82U1nATAjis**
 
 **EIS smart tool Havriliak–Negami (HN) example 1: https://youtu.be/7BxeiYYCRTE**
 
