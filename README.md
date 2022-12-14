@@ -21,7 +21,7 @@ You can use the "YSZ_table_example.txt" file (available in the rar file) to test
 
 **EIS smart tool Havriliak–Negami (HN) example 1: https://youtu.be/7BxeiYYCRTE**
 
-**EIS smart tool Havriliak–Negami (HN) example 2: https://youtu.be/Qva4HT9Yg1A**
+**EIS smart tool Havriliak–Negami (HN) example 2: https://youtu.be/QKFhTXZnGF4**
 
 **Other how to videos available https://www.youtube.com/@eis-smart-tool**
 
