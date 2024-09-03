@@ -27,11 +27,11 @@ You can use the "YSZ_table_example.txt" file (available in the rar file) to test
 
 
 
-
+--------------------------//--------------------------
 
 **Software update in the next months (new features and improved graphical interface), for now, please run the software at a display resolution of (at least) 1920×1080 and 100% scaling.**
 
-
+--------------------------//--------------------------
 
 
 The user can load a text file with the Z’ and -Z’’ values of each frequency and temperature (example in next Table) and the software will calculate all the remaining immittance functions. The resulting matrix can be saved and conveniently reloaded every time the user wishes to perform further analysis.
