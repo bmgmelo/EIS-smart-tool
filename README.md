@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/def54cf0-bf1b-447a-9371-b16efaa415dd)# EIS smart tool (Windows version)
+EIS smart tool (Windows version)
 EIS smart tool is a standalone MATLAB application software for the visualization, analysis, and modeling of impedance spectroscopy data.
 
 **How to install the software:**
